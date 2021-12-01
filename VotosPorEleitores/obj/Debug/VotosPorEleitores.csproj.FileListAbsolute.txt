@@ -1,0 +1,7 @@
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\bin\Debug\VotosPorEleitores.exe.config
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\bin\Debug\VotosPorEleitores.exe
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\bin\Debug\VotosPorEleitores.pdb
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\obj\Debug\VotosPorEleitores.csprojAssemblyReference.cache
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\obj\Debug\VotosPorEleitores.csproj.CoreCompileInputs.cache
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\obj\Debug\VotosPorEleitores.exe
+C:\Users\raphael.maciel\source\repos\VotosPorEleitores\VotosPorEleitores\obj\Debug\VotosPorEleitores.pdb
